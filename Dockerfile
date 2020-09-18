@@ -1,4 +1,4 @@
-FROM tomcat:8.0
+FROM tomcat
 
 USER root
 MAINTAINER hemanth.sai01@gmail.com
